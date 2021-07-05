@@ -2,5 +2,8 @@
 This file should start the apllication
 """
 
-def application ():
+def application():
+    pass
+
+def version():
     pass
